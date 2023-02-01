@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="160" height="60" viewBox="0 0 160 60" xml:space="preserve">
+<desc>Created with Fabric.js 4.6.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 0.98 79.5 30)" style="filter: url(#SVGID_10);" id="n6fo8D8WqmGrhBVdKUrzW"  >
+<filter id="SVGID_10" y="-30%" height="160%" x="-22%" width="144%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="1"></feGaussianBlur>
+	<feOffset dx="1" dy="1" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Noto Serif" font-size="25" font-style="normal" font-weight="700" letter-spacing="0.025" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(210,82,133); fill-rule: nonzero; opacity: 0.8; white-space: pre;" ><tspan x="-66.97" y="6.73" >B</tspan><tspan x="-50.15" y="6.73" >o</tspan><tspan x="-34.8" y="6.73" >o</tspan><tspan x="-19.46" y="6.73" >k</tspan><tspan x="-3.53" y="6.73" >p</tspan><tspan x="12.62" y="6.73" >e</tspan><tspan x="26.92" y="6.73" >d</tspan><tspan x="43.17" y="6.73" >i</tspan><tspan x="51.99" y="6.73" >a</tspan></text>
+</g>
+<g transform="matrix(13.44 0 0 3.83 259.44 210.59)" id="vYwW5YBgBfm-kw8cDrLxD"  >
+<path style="stroke: rgb(204,12,130); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(145,201,236); fill-rule: nonzero; opacity: 0;" vector-effect="non-scaling-stroke"  transform=" translate(0, 0)" d="M -16.83087 -16.83087 L 16.830879999999997 -16.83087 L 16.830879999999997 16.830879999999997 L -16.83087 16.830879999999997 z" stroke-linecap="round" />
+</g>
+</svg>
